@@ -1,0 +1,57 @@
+{
+	"domain": "messages",
+	"locale_data": {
+		"messages": {
+			"": {
+				"domain": "messages",
+				"plural_forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);",
+				"lang": "ru_RU"
+			},
+			"MetaTrader 4": ["MetaTrader 4"],
+			"MetaTrader 5": ["MetaTrader 5"],
+			"Automatically create a demo account": [
+				"Автоматически создать демо-счет"
+			],
+			"Open the Create demo account dialog": [
+				"Открыть диалог создания демо-счета"
+			],
+			"Show login dialog": ["Показывать диалог логина"],
+			"Black on white": ["Черное на белом"],
+			"Yellow on black": ["Желтое на черном"],
+			"Green on black": ["Зеленое на черном"],
+			"Insert MetaTrader Web Terminal": ["Вставляет Вебтерминал MetaTrader"],
+			"Metatrader Web Terminal Settings": ["Настройки вебтерминала MetaTrader"],
+			"Version": ["Версия платформы"],
+			"Connection": ["Подключение"],
+			"Restrict trade servers": ["Ограничить торговые сервера"],
+			"Trade server list (comma separated)": [
+				"Список серверов для подключения (через запятую)"
+			],
+			"Default login": ["Логин счета по умолчанию"],
+			"Default trade server": ["Торговый сервер по умолчанию"],
+			"Opening demo accounts": ["Открытие демо-счетов"],
+			"Allow opening demo accounts on any servers": [
+				"Разрешить открытие демо-счетов на любых серверах"
+			],
+			"Allow the field Phone in the dialog of opening a demo account": [
+				"Разрешить поле «Телефон» в диалоге открытия демо-счетоа"
+			],
+			"UTM campaign": ["UTM campaign"],
+			"UTM source": ["UTM source"],
+			"Interface": ["Интерфейс"],
+			"Width": ["Ширина"],
+			"Height": ["Высота"],
+			"What to do at the start for new visitors?": [
+				"Что делать на старте для новых посетителей?"
+			],
+			"Language": ["Язык"],
+			"Chart color scheme": ["Цветовая схема графиков"],
+			"MetaTrader Web Terminal": ["Вебтерминал MetaTrader"],
+			"Displays the web terminal to connect to the platforms MetaTrader 4 and MetaTrader 5": [
+				"Отображает вебтерминал для подключения к платформам MetaTrader 4 и MetaTrader 5"
+			],
+			"MetaTrader": ["MetaTrader"],
+			"Title": ["Заголовок"]
+		}
+	}
+}

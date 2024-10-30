@@ -1,0 +1,62 @@
+{
+	"langs": [
+		{ "value": "ar", "label": "العربية" },
+		{ "value": "bg", "label": "Български" },
+		{ "value": "cs", "label": "Čeština" },
+		{ "value": "da", "label": "Dansk" },
+		{ "value": "de", "label": "Deutsch" },
+		{ "value": "el", "label": "Ελληνικά" },
+		{ "value": "en", "label": "English" },
+		{ "value": "es", "label": "Español" },
+		{ "value": "et", "label": "Eesti" },
+		{ "value": "fa", "label": "فارسی" },
+		{ "value": "fi", "label": "Suomi" },
+		{ "value": "fr", "label": "Français" },
+		{ "value": "he", "label": "עִבְרִית" },
+		{ "value": "hi", "label": "हिन्दी" },
+		{ "value": "hr", "label": "Hrvatski" },
+		{ "value": "hu", "label": "Magyar" },
+		{ "value": "id", "label": "Bahasa Indonesia" },
+		{ "value": "it", "label": "Italiano" },
+		{ "value": "ja", "label": "日本語" },
+		{ "value": "ko", "label": "한국어" },
+		{ "value": "lt", "label": "Lietuvių kalba" },
+		{ "value": "lv", "label": "Latviešu valoda" },
+		{ "value": "mn", "label": "Монгол" },
+		{ "value": "ms", "label": "Bahasa Melayu" },
+		{ "value": "nl", "label": "Nederlands" },
+		{ "value": "pl", "label": "Polski" },
+		{ "value": "pt", "label": "Português" },
+		{ "value": "ro", "label": "Română" },
+		{ "value": "ru", "label": "Русский" },
+		{ "value": "sk", "label": "Slovenčina" },
+		{ "value": "sl", "label": "Slovenščina" },
+		{ "value": "sr", "label": "Српски језик" },
+		{ "value": "sv", "label": "Svenska" },
+		{ "value": "tg", "label": "Тоҷикӣ" },
+		{ "value": "th", "label": "ไทย" },
+		{ "value": "tr", "label": "Türkçe" },
+		{ "value": "uk", "label": "Українська" },
+		{ "value": "uz", "label": "O‘zbekcha" },
+		{ "value": "vi", "label": "Tiếng Việt" },
+		{ "value": "zh", "label": "中文" },
+		{ "value": "zt", "label": "漢語" }
+	],
+	"versions": [
+		{ "value": "4", "label": "MetaTrader 4" },
+		{ "value": "5", "label": "MetaTrader 5" }
+	],
+	"startupModes": [
+		{ "value": "create_demo", "label": "Automatically create a demo account" },
+		{
+			"value": "open_demo",
+			"label": "Open the Create demo account dialog"
+		},
+		{ "value": "login", "label": "Show login dialog" }
+	],
+	"colorSchemes": [
+		{ "value": "black_on_white", "label": "Black on white" },
+		{ "value": "yellow_on_black", "label": "Yellow on black" },
+		{ "value": "green_on_black", "label": "Green on black" }
+	]
+}
